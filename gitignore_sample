@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+*.log
+.env
+.flake.local/
+.direnv
+.DS_Store
